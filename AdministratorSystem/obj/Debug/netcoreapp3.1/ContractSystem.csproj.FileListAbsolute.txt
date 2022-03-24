@@ -1,0 +1,16 @@
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\bin\Debug\netcoreapp3.1\SpecificationsLib.dll
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\obj\Debug\netcoreapp3.1\ContractSystem.csprojAssemblyReference.cache
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\obj\Debug\netcoreapp3.1\ContractSystem.AssemblyInfoInputs.cache
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\obj\Debug\netcoreapp3.1\ContractSystem.AssemblyInfo.cs
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\bin\Debug\netcoreapp3.1\ContractSystem.exe
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\bin\Debug\netcoreapp3.1\ContractSystem.deps.json
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\bin\Debug\netcoreapp3.1\ContractSystem.runtimeconfig.json
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\bin\Debug\netcoreapp3.1\ContractSystem.runtimeconfig.dev.json
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\bin\Debug\netcoreapp3.1\ContractSystem.dll
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\bin\Debug\netcoreapp3.1\ContractSystem.pdb
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\bin\Debug\netcoreapp3.1\SpecificationsLib.pdb
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\obj\Debug\netcoreapp3.1\ContractSystem.csproj.CoreCompileInputs.cache
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\obj\Debug\netcoreapp3.1\ContractSystem.csproj.CopyComplete
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\obj\Debug\netcoreapp3.1\ContractSystem.dll
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\obj\Debug\netcoreapp3.1\ContractSystem.pdb
+C:\Users\gmo\Downloads\SpecificationsTDC\AdministratorSystem\obj\Debug\netcoreapp3.1\ContractSystem.genruntimeconfig.cache

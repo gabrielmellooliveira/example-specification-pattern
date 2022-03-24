@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ContractSystem/1.0.0": {
+        "dependencies": {
+          "SpecificationsLib": "1.0.0"
+        },
+        "runtime": {
+          "ContractSystem.dll": {}
+        }
+      },
+      "SpecificationsLib/1.0.0": {
+        "runtime": {
+          "SpecificationsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContractSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpecificationsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\gmo\Downloads\SpecificationsTDC\SpecificationsLib\bin\Debug\netcoreapp3.1\SpecificationsLib.deps.json
+C:\Users\gmo\Downloads\SpecificationsTDC\SpecificationsLib\bin\Debug\netcoreapp3.1\SpecificationsLib.dll
+C:\Users\gmo\Downloads\SpecificationsTDC\SpecificationsLib\bin\Debug\netcoreapp3.1\SpecificationsLib.pdb
+C:\Users\gmo\Downloads\SpecificationsTDC\SpecificationsLib\obj\Debug\netcoreapp3.1\SpecificationsLib.csprojAssemblyReference.cache
+C:\Users\gmo\Downloads\SpecificationsTDC\SpecificationsLib\obj\Debug\netcoreapp3.1\SpecificationsLib.AssemblyInfoInputs.cache
+C:\Users\gmo\Downloads\SpecificationsTDC\SpecificationsLib\obj\Debug\netcoreapp3.1\SpecificationsLib.AssemblyInfo.cs
+C:\Users\gmo\Downloads\SpecificationsTDC\SpecificationsLib\obj\Debug\netcoreapp3.1\SpecificationsLib.csproj.CoreCompileInputs.cache
+C:\Users\gmo\Downloads\SpecificationsTDC\SpecificationsLib\obj\Debug\netcoreapp3.1\SpecificationsLib.dll
+C:\Users\gmo\Downloads\SpecificationsTDC\SpecificationsLib\obj\Debug\netcoreapp3.1\SpecificationsLib.pdb
